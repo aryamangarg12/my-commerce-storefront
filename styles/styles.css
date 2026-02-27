@@ -508,6 +508,7 @@ main .section[data-margin="xxhuge"] {
   text-decoration: none;
   font-weight: 600;
 }
+
 .columns > div:first-child a:hover {
   background-color: #1d4ed8;
 }
